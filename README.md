@@ -53,5 +53,5 @@ To synthesize and simulate the MIPS processor, follow these steps:
    ```bash
    git clone https://github.com/username/mips-processor.git
    cd mips-processor
-2. Test the Processor
+2. Test the Processor:
    A basic testbench is included in the testbench directory to verify the functionality of the processor.
