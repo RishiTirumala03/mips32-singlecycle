@@ -34,7 +34,6 @@ The processor architecture follows the classic MIPS design. It consists of the f
 - **Register File**: Contains the 32 general-purpose registers.
 - **Control Unit**: Decodes the instructions and generates control signals.
 
-![Processor Block Diagram](./images/processor_block_diagram.png)
 
 ## Implementation
 
@@ -54,3 +53,5 @@ To synthesize and simulate the MIPS processor, follow these steps:
    ```bash
    git clone https://github.com/username/mips-processor.git
    cd mips-processor
+2. Test the Processor
+   A basic testbench is included in the testbench directory to verify the functionality of the processor.
